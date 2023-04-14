@@ -6,3 +6,6 @@
 
 Dale activa
 
+- [x] Mantene el recoil
+- [x] Dispara
+- [ ] Apuntar
